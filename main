@@ -1,4 +1,6 @@
-// how simply create plugin for AutoCAD/nanoCAD in VS2019
-// install ObjectARX/ObjectNRX 
+// how simply create plugin for AutoCAD/nanoCAD
+// install Visual Studio
+// install ObjectARX/ObjectNRX (check your version. it must suit to your VS version)
 // https://www.autodesk.com/developer-network/platform-technologies/autocad/objectarx-license-download
 // https://www.nanocad.ru/
+
